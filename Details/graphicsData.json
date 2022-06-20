@@ -5,7 +5,7 @@
         "manufacturer": "ASUS",
         "assembler": "ASUS",
         "model": "Strix",
-        "img": "http://dummyimage.com/151x100.png/cc0000/ffffff"
+        "img": "https://s3-sa-east-1.amazonaws.com/saasargentina/SnOXIaeiiZbXxWjdJxKg/imagen"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "manufacturer": "Nvidia",
         "assembler": "Nvidia",
         "model": "3090",
-        "img": "http://dummyimage.com/119x100.png/dddddd/000000"
+        "img": "https://s3-sa-east-1.amazonaws.com/saasargentina/hqoQYv5NvPuhz2dOwwPR/imagen"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "manufacturer": "MSI",
         "assembler": "MSI",
         "model": "6900 XT",
-        "img": "http://dummyimage.com/184x100.png/5fa2dd/ffffff"
+        "img": "https://s3-sa-east-1.amazonaws.com/saasargentina/gPgycdKhmD5VrcZASj0E/imagen"
     },
     {
         "id": 4,
@@ -33,18 +33,18 @@
     },
     {
         "id": 5,
-        "name": "ASUS ROG",
-        "manufacturer": "ASUS",
-        "assembler": "ASUS",
-        "model": "Strix 4050",
-        "img": "http://dummyimage.com/234x100.png/ff4444/ffffff"
+        "name": "GIGABYTE RADEON RX590",
+        "manufacturer": "GIGABYTE",
+        "assembler": "GIGABYTE",
+        "model": "RADEON RX",
+        "img": "https://s3-sa-east-1.amazonaws.com/saasargentina/CrOnYXr6Q2uCHfY6rHK6/imagen"
     },
     {
         "id": 6,
-        "name": "Nvidia GTX",
+        "name": "GIGABYTE GTX",
         "manufacturer": "Nvidia",
         "assembler": "Nvidia",
         "model": "3090",
-        "img": "http://dummyimage.com/108x100.png/ff4444/ffffff"
+        "img": "https://s3-sa-east-1.amazonaws.com/saasargentina/Ep0GAgJ0uvR5YW2MFUqG/imagen"
     }
 ]
