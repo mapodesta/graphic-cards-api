@@ -4,7 +4,7 @@
   "description": "Obtain mockup of graphics cards with JSON files",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Mathias Podesta",
   "license": "ISC",
