@@ -15,4 +15,10 @@ graphicCards.get("/graphics-cards", (req, res) => {
   res.send(accounts);
 });
 
+graphicCards.get("/", (req, res) => {
+  res.send(
+    "Bienvenido a la app ,por favor dirijase a /graphic-cards para obtener la informacion que esta buscando!"
+  );
+});
+
 module.exports = graphicCards;
