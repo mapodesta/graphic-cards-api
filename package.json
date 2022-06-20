@@ -1,12 +1,12 @@
 {
-  "name": "crud-operation-with-jsonfile",
+  "name": "get-graphics-cards",
   "version": "1.0.0",
-  "description": "A tutorial project on how to create CRUD operations with JSON files",
+  "description": "Obtain mockup of graphics cards with JSON files",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Uma Victor",
+  "author": "Mathias Podesta",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",

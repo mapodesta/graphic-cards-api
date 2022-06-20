@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "ASUS ROG ",
+        "manufacturer": "ASUS",
+        "assembler": "ASUS",
+        "model": "Strix",
+        "img": "http://dummyimage.com/151x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 2,
+        "name": "GeForce RTX ",
+        "manufacturer": "Nvidia",
+        "assembler": "Nvidia",
+        "model": "3090",
+        "img": "http://dummyimage.com/119x100.png/dddddd/000000"
+    },
+    {
+        "id": 3,
+        "name": "MSI Radeon RX",
+        "manufacturer": "MSI",
+        "assembler": "MSI",
+        "model": "6900 XT",
+        "img": "http://dummyimage.com/184x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 4,
+        "name": "AMD Radeon RX",
+        "manufacturer": "AMD",
+        "assembler": "AMD",
+        "model": "6900XT",
+        "img": "http://dummyimage.com/216x100.png/dddddd/000000"
+    },
+    {
+        "id": 5,
+        "name": "ASUS ROG",
+        "manufacturer": "ASUS",
+        "assembler": "ASUS",
+        "model": "Strix 4050",
+        "img": "http://dummyimage.com/234x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 6,
+        "name": "Nvidia GTX",
+        "manufacturer": "Nvidia",
+        "assembler": "Nvidia",
+        "model": "3090",
+        "img": "http://dummyimage.com/108x100.png/ff4444/ffffff"
+    }
+]

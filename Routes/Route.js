@@ -1,7 +1,6 @@
-const express = require("express")
+const express = require("express");
 const router = express.Router();
-const fs = require('fs');
-const accountRoutes = require('./account.js')
+const graphicRoutes = require("./graphicCards.js");
 
-router.use(accountRoutes)
+router.use(graphicRoutes);
 module.exports = router;
